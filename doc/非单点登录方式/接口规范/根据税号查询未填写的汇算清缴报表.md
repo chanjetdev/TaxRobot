@@ -2,7 +2,7 @@
 
 **公共参数:**
 
-+ 必须在http请求header中的Authorization字段中加入数字签名，数字签名的计算请参考示例程序。
++ 必须在http请求header中的Authorization字段中加入数字签名，数字签名的计算请参考[示例程序](./附件/报表取数示例代码)。
 
 ### 接口信息
 | 接口调用方式 | Restful Service        |
