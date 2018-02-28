@@ -1,3 +1,6 @@
 # 畅捷通一键报税系统
-![TaxRobot logo](https://github.com/chanjetdev/TaxRobot/blob/master/resource/robot.png)
+![TaxRobot logo](./resource/robot.png)
+
+##说明
+接口文档请点[这里](./doc)。
 
