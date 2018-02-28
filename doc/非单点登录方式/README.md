@@ -26,10 +26,13 @@
 	> 目前支持以下季报、月报、年报数据输出：
 	
 	> 1)《固定资产（不含不动产）进项税额抵扣情况表》第一行第1列"增值税专用发票"数据。
+	![Rendering preferences pane](../../resource/fig1.png)
 	
 	> 2)《增值税纳税申报表附列资料（二）》第15行数据
+	![Rendering preferences pane](../../resource/fig2.png)
 	
 	> 3)《增值税纳税申报表附列资料（四）》第1行数据
+	![Rendering preferences pane](../../resource/fig3.png)
 * **3、所得税报表**
 	>  支持所得税报表以下三项（月报/季报）数据的输出：
 	
