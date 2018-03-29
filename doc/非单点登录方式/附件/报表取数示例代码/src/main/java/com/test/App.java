@@ -48,6 +48,7 @@ public class App {
         try{
             //添加数字签名
             httpGet.addHeader("Authorization",sign);
+            httpGet.addHeader("clientId","clientId");
 
             CloseableHttpResponse httpResponse= httpClient.execute(httpGet);
             HttpEntity entity= httpResponse.getEntity();
